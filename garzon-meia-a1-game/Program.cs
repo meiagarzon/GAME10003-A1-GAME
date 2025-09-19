@@ -1,4 +1,4 @@
-﻿//Start; Player goes to grocery store
+﻿//Player info and context
 Console.WriteLine("What's your name?");
 string playerName = Console.ReadLine();
 Console.WriteLine($"Oh no, {playerName}! You've run out of some ingredients to make lunch with...");
